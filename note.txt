@@ -1,0 +1,24 @@
+1. Phân tích -> OK
+	1. Header
+	2. Slider
+	3. Content
+		- About
+		- Tour
+		- Contact
+		- Image
+		- Footer
+	4. Footer
+2. Dựng base (xây móng)
+	- Phân tích khu đất đó có phù hợp để xây nhà đó hay không?
+	- Móng chắc thì nhà mới xây cao
+3. Xây dựng từng phần theo phân tích
+4. Hoàn thiện
+
+Những thành phần thường gặp trên giao diện website
+1. Header
+2. Navigation (điều hướng)
+3. Breadcrumb (map)
+4. Sidebar
+5. Slider
+6. Content (nội dung chính)
+7. Footer
